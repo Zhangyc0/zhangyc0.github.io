@@ -23,7 +23,7 @@ I was fortunate to work with Prof. Fan Zhang at Zhejiang Univerisity with Dr.Che
 
 I have a broad interest in Hardware Security and Side-Channel Attack(SCA). Specifically， i am passionate about Masking schema against SCA and SCA with machine learning，Special Channel SCA.
 
-If you have anything you want to ask me or talk about, please [email me]("zhangyunce@zju.edu.cn") directly. Writing a personal homepage is a bit boring. :)
+If you have anything you want to ask me or talk about, please <a href="mailto:zhangyunce@zju.edu.cn">email me</a> directly. Writing a personal homepage is a bit boring. :)
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
