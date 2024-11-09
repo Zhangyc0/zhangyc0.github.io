@@ -60,4 +60,5 @@ If you have anything you want to ask me or talk about, please [email me](zhangyu
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-<a href="https://clustrmaps.com/site/1c241"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=wi6SNsBW_LHwS4lebdWQaiS19mTE3we2DUkeRPuDSOc&cl=ffffff" /></a>
+``
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wi6SNsBW_LHwS4lebdWQaiS19mTE3we2DUkeRPuDSOc"></script>
