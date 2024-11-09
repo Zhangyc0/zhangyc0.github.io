@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](docs/Resume_YunceZhang.pdf)
+I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](https://github.com/Zhangyc0/zhangyc0.github.io/blob/main/docs/Resume_YunceZhang.pdf)
 
 I was fortunate to work with Prof. Fan Zhang at Zhejiang Univerisity with Dr.Cheng Wei and Dr.Qianmei Wu.
 
@@ -46,7 +46,8 @@ If you have anything you want to ask me or talk about, please [email me](zhangyu
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.7*  Outstanding Graduates of Zhejiang University
+- *2024.07* Outstanding Graduates of Zhejiang University
+- *2024.07* 2024 Outstanding Undergraduate Graduation Thesis, Supervisor:Prof.Fan Zhang
 - *2023.10* CISCN’16 Outstanding Award (Top 5%)
 
 # 📖 Educations
