@@ -64,8 +64,8 @@ If you have anything you want to ask me or talk about, please [email me](zhangyu
   window.onload = function() {
     var globe = document.getElementById('clstr_globe');
     if (globe) {
-      globe.style.width = '300px';  /* 设置你想要的宽度 */
-      globe.style.height = '300px'; /* 设置你想要的高度 */
+      globe.style.width = '100px';  /* 设置你想要的宽度 */
+      globe.style.height = '100px'; /* 设置你想要的高度 */
     }
   };
 </script>
