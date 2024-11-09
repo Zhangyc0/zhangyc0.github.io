@@ -60,5 +60,13 @@ If you have anything you want to ask me or talk about, please [email me](zhangyu
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-``
+<script type="text/javascript">
+  window.onload = function() {
+    var globe = document.getElementById('clstr_globe');
+    if (globe) {
+      globe.style.width = '300px';  /* 设置你想要的宽度 */
+      globe.style.height = '300px'; /* 设置你想要的高度 */
+    }
+  };
+</script>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wi6SNsBW_LHwS4lebdWQaiS19mTE3we2DUkeRPuDSOc"></script>
