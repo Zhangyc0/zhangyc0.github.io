@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunce Zhang's homepage"
-description              : "hack it and master it"
+description              : "Hack it and master it"
 repository               : "Zhangyc0/zhangyc0.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yunce Zhang/张云策"
+  name             : "Yunce Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D at Northeastern University & B.Eng at Zhejiang University"
   location         : "Hangzhou, China"
