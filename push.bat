@@ -1,6 +1,6 @@
 @echo off
 for /f "tokens=1-5 delims=/,.: " %%d in ("%date% %time%") do (
-    set datetime=%%d-%%e-%%f-%%h-%%i-%%j
+    set datetime=%%d-%%e-%%f-%%h-%%m-%%s
 )
 
 cd /d F:\Homepage\zhangyc0.github.io
