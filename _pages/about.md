@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University.
+I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](docs/Resume_YunceZhang.pdf)
 
 I was fortunate to work with Prof. Fan Zhang at Zhejiang Univerisity with Dr.Cheng Wei and Dr.Qianmei Wu.
 
@@ -46,16 +46,13 @@ If you have anything you want to ask me or talk about, please [email me](zhangyu
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.7*  Outstanding Graduates of Zhejiang University
+- *2023.10* CISCN’16 Outstanding Award (Top 5%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - Present*, Ph.D in Computer Engineering, Northeastern university, Boston.
+  For visa checking, i have to live in China to continue my reasearch and study.
+- *2020.09 - 2024.06*, B.eng in Information Secturity, Zhejiang University, Hangzhou. 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
