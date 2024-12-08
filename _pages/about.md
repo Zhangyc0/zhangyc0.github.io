@@ -26,7 +26,7 @@ I have a broad interest in Hardware Security and Side-Channel Attack(SCA). Speci
 If you have anything you want to ask me or talk about, please <a href="mailto:yunce.zhang.sec@gmail.com">email me</a> directly. Writing a personal homepage is a bit boring. :)
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 my paper have accept by chinese cryptography transaction. 
+- *2024.10*: &nbsp;🎉🎉 my paper have accepted by chinese cryptography transaction. 
 
 # 📝 Publications 
 
