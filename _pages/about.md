@@ -42,7 +42,6 @@ If you have anything you want to ask me or talk about, please <a href="mailto:yu
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024.07* Outstanding Graduates of Zhejiang University
@@ -55,8 +54,8 @@ If you have anything you want to ask me or talk about, please <a href="mailto:yu
 - *2020.09 - 2024.06*, B.eng in Information Secturity, Zhejiang University, Hangzhou. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
+- *2023.05 - 2023.10*, [Ant Group](https://www.antgroup.com/en), China.
+- *2022.07 - 2022.09*, [Hangzhou Data Resources Management Bureau](http://www.yuhang.gov.cn/),China
 <div style="text-align: center;">
     <div id="clustrmaps-container" style="display: inline-block; width: 500px; height: 500px; max-width: 40%; max-height: 40%; overflow: hidden;">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wi6SNsBW_LHwS4lebdWQaiS19mTE3we2DUkeRPuDSOc"></script>
