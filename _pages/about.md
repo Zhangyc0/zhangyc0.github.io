@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](./Resume_YunceZhang.pdf)
+I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](./Resume_YunceZhang.pdf), and i also want to find a intern job to fill my blank of industy. 
 
 I was fortunate to work with Prof. Fan Zhang at Zhejiang Univerisity with Dr.Cheng Wei and Dr.Qianmei Wu.
 
@@ -27,7 +27,7 @@ If you have anything you want to ask me or talk about, please <a href="mailto:yu
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 my paper have accepted by chinese cryptography transaction. 
-
+- *2024.07*：i have finished and get my bachlor from zhejiang university.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>

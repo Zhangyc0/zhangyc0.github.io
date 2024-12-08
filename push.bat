@@ -6,7 +6,7 @@ for /f "tokens=1-7 delims=/,.: " %%d in ("%date% %time%") do (
 cd /d F:\Homepage\zhangyc0.github.io
 
 echo Local Index:
-cd
+
 
 
 git add .
