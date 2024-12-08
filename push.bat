@@ -2,13 +2,6 @@
 for /f "tokens=1-7 delims=/,.: " %%d in ("%date% %time%") do (
     set datetime=%%d-%%e-%%f-%%h-%%i-%%j
 )
-
-cd /d F:\Homepage\zhangyc0.github.io
-
-echo Local Index:
-
-
-
 git add .
 
 REM 提交更改，提交信息包含当前日期和时间
