@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](./Resume_YunceZhang.pdf), and i also want to find a intern job to fill my blank of industy. 
+I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](./Resume.pdf), and i also want to find a intern job to fill my blank of industy. 
 
 I was fortunate to work with Prof. Fan Zhang at Zhejiang Univerisity with Dr.Cheng Wei and Dr.Qianmei Wu.
 
