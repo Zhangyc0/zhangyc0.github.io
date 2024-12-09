@@ -17,13 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<<<<<<< HEAD
-I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](./Resume.pdf)
-=======
-I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](./Resume.pdf), and i also want to find a intern job to fill my blank of industy. 
->>>>>>> 70de45b871c2012b3a6485f5a8661228cf9e9d96
-
-I was fortunate to work with Prof. Fan Zhang at Zhejiang Univerisity with Dr.Cheng Wei and Dr.Qianmei Wu.
+I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](./Resume.pdf). I was fortunate to work with Prof. Fan Zhang at Zhejiang Univerisity with Dr.Cheng Wei and Dr.Qianmei Wu.
 
 I have a broad interest in Hardware Security and Side-Channel Attack(SCA). Specifically， i am passionate about Masking schema against SCA and SCA with machine learning，Special Channel SCA.
 
@@ -33,7 +27,7 @@ If you have anything you want to ask me or talk about, please <a href="mailto:yu
 - *2024.10*: &nbsp;🎉🎉 my paper have accepted by chinese Cryptology transaction. 
 - *2024.07*：i have finished and get my bachlor from zhejiang university.
 # 📝 Publications 
-
+Secure evaluation and efficient implementation of inner product masking for SM4 accepted by Chinese Cryptology Transactions
 
 # 🎖 Honors and Awards
 - *2024.07* Outstanding Graduates of Zhejiang University
