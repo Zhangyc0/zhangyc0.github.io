@@ -24,8 +24,8 @@ I have a broad interest in Hardware Security and Side-Channel Attack(SCA). Speci
 If you have anything you want to ask me or talk about, please <a href="mailto:yunce.zhang.sec@gmail.com">email me</a> directly. Writing a personal homepage is a bit boring. :)
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 my paper have accepted by chinese Cryptology transaction. 
-- *2024.07*：i have finished and get my bachlor from zhejiang university.
+- *2024.10*: &nbsp;🎉🎉 My paper have accepted by Chinese Cryptology Transactions. 
+- *2024.07*：&nbsp;🎉🎉 I have finished and get my bachlor from Zhejiang University.
 
 # 📝 Publications 
 Secure evaluation and efficient implementation of inner product masking for SM4 accepted by Chinese Cryptology Transactions
