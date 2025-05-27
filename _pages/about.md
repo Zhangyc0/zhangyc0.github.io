@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](./Resume.pdf). I was fortunate to work with Prof. Fan Zhang at Zhejiang Univerisity with Dr.Cheng Wei and Dr.Qianmei Wu.
+I am Yunce Zhang [CN: 张云策], a first-year CE Ph.D at NEU. I obtained my bachelor's degree from Zhejiang University. Here is my [Resume](./YunceZhang_Resume.pdf). I was fortunate to work with Prof. Fan Zhang at Zhejiang Univerisity with Dr.Cheng Wei and Dr.Qianmei Wu.
 
 I have a broad interest in Hardware Security and Side-Channel Attack(SCA). Specifically， i am passionate about Masking schema against SCA and SCA with machine learning，Special Channel SCA.
 
